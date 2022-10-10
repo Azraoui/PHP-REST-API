@@ -2,7 +2,7 @@
 
 There are many large organizations that provide access to their data to multiple systems. The stock market provides access to live data using APIs. News media also publish their news on multiple platforms using various APIs.
 
-You can book a movie ticket using a website as well as using a mobile app. Both use some kind of APIs to communicate with each other. Social Media websites also use APIs to show your feed data into your website. There are so many uses of APIs in today’s time.
+You Can book a movie ticket using a website as well as using a mobile app. Both use some kind of APIs to communicate with each other. Social Media websites also use APIs to show your feed data into your website. There are so many uses of APIs in today’s time.
 
 In this project we well learn about PHP & REST APIs. REST and other APIs are used to provide communication and interaction between two systems.
 
